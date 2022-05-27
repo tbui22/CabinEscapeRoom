@@ -1,0 +1,21 @@
+.best {
+
+    color: rgb(30, 207, 110);
+    text-align: center;
+}
+
+.timesPage {
+    display: flex;
+    flex-direction: column;
+
+    width: 100%;
+    height: 100vh;
+}
+
+.centerButton {
+    margin: 0px auto;
+}
+
+/* .btnwidth {
+    width: 100%;
+} */

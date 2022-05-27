@@ -1,0 +1,73 @@
+
+/* Bookshelf View */
+.armChair {
+    width:50%;
+    margin-left: auto;
+    margin-right:5%;
+    margin-top:50px;
+  }
+  
+  .lamp {
+    width:60%;
+    margin-left: auto;
+    margin-left:20%;
+    margin-top:38%;
+  }
+  
+  .word {
+    margin-left: auto;
+    margin-right:9%;
+    margin-top:20%;
+  }
+  
+  .book{
+    background-image: url('../img/book.png');
+    background-size:100%;
+    width: 13%;
+    margin-right: -2%;
+    margin-top: 20%;
+    z-index: 1;
+  }
+  
+  .font {
+    font-family: 'Grape Nuts', cursive;
+    font-size: 1vw;
+  }
+  
+  .BookClues {
+    width:100%;
+    height:90%;
+    position: absolute;
+    margin-left: auto;
+    margin-top:-80%;
+    z-index: 1;
+}
+
+.bookPage{
+    width: 100%;
+}
+
+.rightPage{
+    background-image: url('../img/RightPage.png');
+    background-size:100%;
+    width: 100%;
+    height: 100%;
+    position: "absolute";
+    margin-left: "5%"; 
+    margin-top: "-80%";
+}
+
+.leftPage{
+    background-image: url('../img/LeftPage.png');
+    background-size:100%;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    margin-left: "5%"; 
+    margin-top: "-80%"; 
+}
+
+.bookText {
+  margin-left: 15%;
+  margin-right: 15%
+}

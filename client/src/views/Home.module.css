@@ -1,0 +1,17 @@
+.nameForm{
+
+
+    width: 100%;
+    height: 100vh;
+
+    margin: 0px auto;
+    
+    background-image: url("https://media.blenderartists.org/uploads/default/optimized/4X/a/a/d/aade7a3f924a85d4339c347c801e3edfabf47f2f_2_1380x776.jpeg");
+    background-size:cover;
+
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    padding: 10%;
+    font-size: 1.5vw;
+}

@@ -1,0 +1,146 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  
+  
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+} 
+
+/* Global Classes */
+.homeBackground{
+  background-image: url("https://media.blenderartists.org/uploads/default/optimized/4X/a/a/d/aade7a3f924a85d4339c347c801e3edfabf47f2f_2_1380x776.jpeg");
+  background-size:cover;
+}
+
+.muteButton {
+  width:3%;
+  margin: 1%;
+}
+
+.bgVideo{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+}
+
+.form{
+  position: absolute;
+  top: 0%;
+  left: 11%;
+  height: 20%;
+  width: 95%;
+}
+
+th, td{
+  color: aliceblue;
+}
+
+.greenbox{
+  font-size: 1.2vw;
+  width: 50%;
+  height: fit-content;
+  background-color: rgb(27, 56, 36, .8);
+  margin: 0px auto;
+  padding: 3%;
+  border: 2px solid black;
+  box-shadow: 10px 5px 5px rgb(18, 17, 17);
+}
+
+/* GAME WINDOW */
+.gameWindow {
+  border: 5px solid black;
+  display: block;
+  width: 50%;
+  height: fit-content;
+}
+
+.gameBackground {
+  width:100%;
+}
+
+/* Objects */
+
+.arrow{
+  width: 10%;
+}
+
+.rug {
+  width:75%;
+}
+
+.clickable{
+  cursor: pointer;
+}
+
+
+.head{
+  text-align: center;
+  color: red;
+}
+
+.hint{
+  top: 20%;
+  left: 80%;
+  width: 10%;
+  height: 30%;
+  padding: 10px;
+  font-size: 1.5vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+/* Success Page */
+.success{
+  height: 100%;
+  width: 100%;
+  color:rgb(252, 252, 252);
+  text-align: center;
+  font-size: large;
+  padding-top: 10%;
+  background-size: cover;
+  z-index: 2;
+} 
+
+
+/* Best Times Page */
+
+.best{
+  color: rgb(30, 207, 110);
+  text-align: center;
+} 
+
+.timesPage{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100vh;
+}
+
+.padding{
+  margin: 0px auto;
+}
+
+.btnwidth{
+  width:100%;
+} 
+
+
+.backgroundTable{
+  background-color: rgb(27, 56, 36, .8); 
+  color: aliceblue;
+}

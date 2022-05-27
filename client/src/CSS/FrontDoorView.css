@@ -1,0 +1,28 @@
+/* Front Door View */
+
+.finalKey {
+    width: 10%;
+    display: block;
+    margin-top: 2%;
+    margin-right: 11%;
+}
+
+.lock {
+    width:10%;
+    display: block;
+    margin-left: 8%;
+    margin-right:auto;
+    margin-top:35%;
+}
+
+.backgroundCabinetClosed {
+    width: 1000px;
+    height:1000px;
+}
+
+.key {
+    width: 13%;
+    display: block;
+    margin-left: auto;
+    margin-right: 10%;
+}

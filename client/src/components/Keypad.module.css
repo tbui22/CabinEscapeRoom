@@ -1,0 +1,147 @@
+/* Safe KeyPad */
+.keypad {
+    background-size: 100%;
+    width: 60%;
+}
+
+.codeInput {
+    height: 90%;
+    width: 80%;
+    border-radius: 5%;
+    font-size: 6vw;
+    padding-left: 15%;
+    margin-top: 4%;
+}
+
+.keypad {
+    position: absolute;
+    top: 5%;
+    left: 18%;
+
+}
+
+.keypadimg {
+    width: 100%;
+    height: 100%;
+}
+
+.abc {
+    position: absolute;
+    top: 138%;
+    left: -1%;
+    width: 25%;
+    height: 81%;
+
+}
+
+.def {
+    position: absolute;
+    top: 138%;
+    left: 27%;
+    width: 25%;
+    height: 81%;
+
+}
+
+.ghi {
+    position: absolute;
+    top: 138%;
+    left: 55%;
+    width: 25%;
+    height: 81%;
+
+}
+
+.jkl {
+    position: absolute;
+    top: 228%;
+    left: -1%;
+    width: 25%;
+    height: 81%;
+
+}
+
+.mno {
+    position: absolute;
+    top: 228%;
+    left: 27%;
+    width: 25%;
+    height: 81%;
+
+}
+
+.pqr {
+    position: absolute;
+    top: 228%;
+    left: 55%;
+    width: 25%;
+    height: 81%;
+
+}
+
+.stu {
+    position: absolute;
+    top: 315%;
+    left: -1%;
+    width: 25%;
+    height: 81%;
+
+}
+
+.vwx {
+    position: absolute;
+    top: 315%;
+    left: 28%;
+    width: 25%;
+    height: 81%;
+
+}
+
+.yz {
+    position: absolute;
+    top: 315%;
+    left: 56%;
+    width: 25%;
+    height: 81%;
+
+}
+
+.delete {
+    position: absolute;
+    top: 402%;
+    left: -1%;
+    width: 25%;
+    height: 81%;
+
+}
+
+.zero {
+    position: absolute;
+    top: 402%;
+    left: 28%;
+    width: 25%;
+    height: 81%;
+
+}
+
+.enter {
+    position: absolute;
+    top: 402%;
+    left: 56%;
+    width: 25%;
+    height: 81%;
+
+}
+
+li {
+
+    list-style: none;
+}
+
+.pushList {
+
+    width: 100%;
+    height: 30%;
+
+
+}
